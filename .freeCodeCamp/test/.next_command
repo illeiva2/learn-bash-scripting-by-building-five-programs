@@ -66,3 +66,5 @@ help if
 help if
 help echo
 help
+help if
+help [[ expression ]]
