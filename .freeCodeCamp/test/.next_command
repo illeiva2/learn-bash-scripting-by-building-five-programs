@@ -68,3 +68,4 @@ help echo
 help
 help if
 help [[ expression ]]
+help test
