@@ -45,3 +45,4 @@ echo --help
 man echo
 --help
 ./questionnaire.sh
+./questionnaire.sh
