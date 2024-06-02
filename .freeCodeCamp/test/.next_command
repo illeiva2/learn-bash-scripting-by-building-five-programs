@@ -92,3 +92,4 @@ help [[ expression ]]
 ./countdown.sh 1a
 ./countdown.sh -5
 help
+./countdown.sh 10
