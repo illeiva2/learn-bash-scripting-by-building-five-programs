@@ -136,3 +136,5 @@ echo $J
 echo $(( J bingo.sh countdown.sh questionnaire.sh 5 + 25 ))
 ECHO $J
 echo $J
+declare -P
+declare -p
