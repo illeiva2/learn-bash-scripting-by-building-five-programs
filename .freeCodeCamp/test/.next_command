@@ -139,3 +139,5 @@ echo $J
 declare -P
 declare -p
 declare -p J
+declare -p NUMBER
+declare -p RANDOM
