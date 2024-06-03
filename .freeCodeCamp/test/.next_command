@@ -190,3 +190,4 @@ echo $VAR
 [[ test? =~ \?$ ]]
 ./fortune.sh
 help until
+./fortune.sh
