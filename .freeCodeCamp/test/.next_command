@@ -202,3 +202,4 @@ clear
 clear
 help
 help type
+type echo
