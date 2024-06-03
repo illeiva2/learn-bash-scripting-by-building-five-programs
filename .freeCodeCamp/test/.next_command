@@ -201,3 +201,4 @@ clear
 ./five.sh
 clear
 help
+help type
